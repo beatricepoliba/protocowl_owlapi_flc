@@ -1,0 +1,4 @@
+# Fine riga degli script del wrapper Gradle, indipendente dal sistema operativo
+/gradlew        text eol=lf
+*.bat           text eol=crlf
+*.jar           binary
